@@ -1,0 +1,501 @@
+user_id,activity_id,activity_name,category,activity_type,user_mood,user_interest_score,label
+22,114,Dance lessons,Skill,Skill-building,Happy,0.91,0
+23,112,Painting class,Culture,Skill-building,Relaxed,0.26,1
+26,114,Dance lessons,Skill,Skill-building,Anxious,0.48,1
+16,102,Visit art museum,Culture,Relaxing,Relaxed,0.75,0
+22,106,Yoga retreat,Wellness,Wellness,Focused,0.38,0
+24,111,Rock climbing,Outdoors,Adventurous,Curious,0.45,0
+4,111,Rock climbing,Outdoors,Adventurous,Energetic,0.89,1
+48,105,Attend book club,Social,Social,Happy,0.4,0
+46,105,Attend book club,Social,Social,Curious,0.97,0
+39,104,Kayaking at lake,Outdoors,Adventurous,Anxious,0.65,0
+15,101,Hiking in mountains,Outdoors,Adventurous,Calm,0.91,0
+27,113,Wine tasting,Social,Relaxing,Calm,0.21,1
+40,115,Camping trip,Outdoors,Adventurous,Calm,0.87,0
+12,104,Kayaking at lake,Outdoors,Adventurous,Calm,0.64,1
+6,108,Volunteer at shelter,Social,Social,Curious,0.36,0
+21,108,Volunteer at shelter,Social,Social,Calm,0.16,0
+3,104,Kayaking at lake,Outdoors,Adventurous,Curious,0.22,1
+33,112,Painting class,Culture,Skill-building,Relaxed,0.44,0
+45,111,Rock climbing,Outdoors,Adventurous,Relaxed,0.47,1
+46,113,Wine tasting,Social,Relaxing,Energetic,0.97,1
+37,115,Camping trip,Outdoors,Adventurous,Relaxed,0.05,1
+7,105,Attend book club,Social,Social,Anxious,0.72,0
+32,114,Dance lessons,Skill,Skill-building,Relaxed,0.68,1
+7,110,Meditation session,Wellness,Wellness,Focused,0.27,1
+26,109,Learn guitar,Skill,Skill-building,Energetic,0.29,1
+38,105,Attend book club,Social,Social,Curious,0.57,0
+32,109,Learn guitar,Skill,Skill-building,Anxious,0.48,1
+32,104,Kayaking at lake,Outdoors,Adventurous,Curious,0.31,1
+34,111,Rock climbing,Outdoors,Adventurous,Happy,0.24,1
+44,105,Attend book club,Social,Social,Focused,0.0,0
+29,110,Meditation session,Wellness,Wellness,Happy,0.35,0
+5,114,Dance lessons,Skill,Skill-building,Focused,0.97,1
+5,115,Camping trip,Outdoors,Adventurous,Calm,0.14,0
+13,102,Visit art museum,Culture,Relaxing,Curious,0.37,1
+11,103,Solo cooking class,Skill,Skill-building,Relaxed,0.62,1
+40,101,Hiking in mountains,Outdoors,Adventurous,Focused,0.2,0
+14,101,Hiking in mountains,Outdoors,Adventurous,Anxious,0.42,0
+42,112,Painting class,Culture,Skill-building,Calm,0.76,1
+23,108,Volunteer at shelter,Social,Social,Curious,0.47,0
+8,105,Attend book club,Social,Social,Energetic,0.38,0
+29,113,Wine tasting,Social,Relaxing,Focused,0.08,0
+21,114,Dance lessons,Skill,Skill-building,Anxious,0.88,0
+36,105,Attend book club,Social,Social,Anxious,0.9,1
+24,108,Volunteer at shelter,Social,Social,Focused,0.2,0
+48,114,Dance lessons,Skill,Skill-building,Calm,0.67,0
+39,110,Meditation session,Wellness,Wellness,Calm,0.11,1
+49,109,Learn guitar,Skill,Skill-building,Relaxed,0.04,1
+36,103,Solo cooking class,Skill,Skill-building,Curious,0.77,1
+2,102,Visit art museum,Culture,Relaxing,Focused,0.89,0
+49,112,Painting class,Culture,Skill-building,Calm,0.79,0
+24,108,Volunteer at shelter,Social,Social,Curious,0.22,0
+38,112,Painting class,Culture,Skill-building,Anxious,0.48,0
+45,103,Solo cooking class,Skill,Skill-building,Happy,0.85,1
+38,113,Wine tasting,Social,Relaxing,Focused,0.25,0
+16,104,Kayaking at lake,Outdoors,Adventurous,Focused,0.16,0
+35,102,Visit art museum,Culture,Relaxing,Energetic,0.69,0
+17,106,Yoga retreat,Wellness,Wellness,Energetic,0.87,0
+46,102,Visit art museum,Culture,Relaxing,Relaxed,0.9,0
+2,113,Wine tasting,Social,Relaxing,Energetic,0.77,0
+22,109,Learn guitar,Skill,Skill-building,Calm,0.44,0
+43,105,Attend book club,Social,Social,Focused,0.38,1
+17,113,Wine tasting,Social,Relaxing,Calm,0.72,0
+26,109,Learn guitar,Skill,Skill-building,Relaxed,0.48,0
+12,106,Yoga retreat,Wellness,Wellness,Energetic,0.71,0
+50,104,Kayaking at lake,Outdoors,Adventurous,Happy,0.42,1
+29,108,Volunteer at shelter,Social,Social,Energetic,0.77,0
+26,107,Photography workshop,Skill,Skill-building,Focused,0.38,0
+34,110,Meditation session,Wellness,Wellness,Curious,0.61,0
+36,107,Photography workshop,Skill,Skill-building,Focused,0.09,0
+12,105,Attend book club,Social,Social,Happy,0.16,1
+43,112,Painting class,Culture,Skill-building,Calm,0.43,0
+16,106,Yoga retreat,Wellness,Wellness,Relaxed,0.43,0
+15,109,Learn guitar,Skill,Skill-building,Focused,0.83,0
+46,109,Learn guitar,Skill,Skill-building,Anxious,0.44,1
+18,106,Yoga retreat,Wellness,Wellness,Relaxed,0.85,1
+11,108,Volunteer at shelter,Social,Social,Calm,0.89,1
+17,108,Volunteer at shelter,Social,Social,Relaxed,0.88,1
+2,112,Painting class,Culture,Skill-building,Relaxed,0.97,1
+23,103,Solo cooking class,Skill,Skill-building,Relaxed,0.28,0
+46,106,Yoga retreat,Wellness,Wellness,Relaxed,0.08,0
+38,109,Learn guitar,Skill,Skill-building,Anxious,0.52,1
+18,115,Camping trip,Outdoors,Adventurous,Happy,0.66,0
+40,115,Camping trip,Outdoors,Adventurous,Happy,0.4,1
+46,112,Painting class,Culture,Skill-building,Curious,0.86,0
+2,115,Camping trip,Outdoors,Adventurous,Focused,0.91,0
+13,109,Learn guitar,Skill,Skill-building,Curious,0.8,0
+2,108,Volunteer at shelter,Social,Social,Focused,0.79,0
+33,114,Dance lessons,Skill,Skill-building,Relaxed,0.41,0
+21,107,Photography workshop,Skill,Skill-building,Relaxed,0.28,1
+15,104,Kayaking at lake,Outdoors,Adventurous,Curious,0.54,1
+4,103,Solo cooking class,Skill,Skill-building,Focused,0.71,1
+8,110,Meditation session,Wellness,Wellness,Happy,0.94,0
+41,106,Yoga retreat,Wellness,Wellness,Focused,0.74,0
+28,115,Camping trip,Outdoors,Adventurous,Anxious,0.96,0
+6,102,Visit art museum,Culture,Relaxing,Calm,0.54,1
+43,105,Attend book club,Social,Social,Calm,0.87,0
+39,111,Rock climbing,Outdoors,Adventurous,Energetic,0.58,0
+22,105,Attend book club,Social,Social,Curious,0.41,1
+42,113,Wine tasting,Social,Relaxing,Focused,0.14,0
+10,107,Photography workshop,Skill,Skill-building,Focused,0.87,1
+37,115,Camping trip,Outdoors,Adventurous,Relaxed,0.7,0
+17,109,Learn guitar,Skill,Skill-building,Happy,0.3,0
+19,103,Solo cooking class,Skill,Skill-building,Energetic,0.09,0
+25,107,Photography workshop,Skill,Skill-building,Curious,0.88,0
+20,103,Solo cooking class,Skill,Skill-building,Curious,0.18,0
+16,113,Wine tasting,Social,Relaxing,Relaxed,0.42,0
+37,101,Hiking in mountains,Outdoors,Adventurous,Energetic,0.49,0
+45,106,Yoga retreat,Wellness,Wellness,Relaxed,0.62,0
+27,115,Camping trip,Outdoors,Adventurous,Curious,0.41,1
+3,115,Camping trip,Outdoors,Adventurous,Focused,0.12,1
+37,112,Painting class,Culture,Skill-building,Happy,0.61,1
+1,104,Kayaking at lake,Outdoors,Adventurous,Calm,0.01,1
+15,105,Attend book club,Social,Social,Energetic,0.87,0
+40,106,Yoga retreat,Wellness,Wellness,Curious,0.23,1
+30,111,Rock climbing,Outdoors,Adventurous,Curious,0.86,0
+28,113,Wine tasting,Social,Relaxing,Focused,0.53,1
+42,109,Learn guitar,Skill,Skill-building,Focused,0.58,1
+40,113,Wine tasting,Social,Relaxing,Happy,0.55,1
+23,114,Dance lessons,Skill,Skill-building,Calm,0.51,0
+45,102,Visit art museum,Culture,Relaxing,Calm,0.36,1
+6,102,Visit art museum,Culture,Relaxing,Energetic,0.37,0
+3,102,Visit art museum,Culture,Relaxing,Relaxed,0.48,1
+47,113,Wine tasting,Social,Relaxing,Curious,0.26,0
+23,115,Camping trip,Outdoors,Adventurous,Energetic,0.25,1
+44,101,Hiking in mountains,Outdoors,Adventurous,Focused,0.65,0
+33,114,Dance lessons,Skill,Skill-building,Focused,0.09,1
+5,103,Solo cooking class,Skill,Skill-building,Calm,0.86,0
+25,102,Visit art museum,Culture,Relaxing,Curious,0.12,1
+14,101,Hiking in mountains,Outdoors,Adventurous,Calm,0.39,1
+26,104,Kayaking at lake,Outdoors,Adventurous,Curious,0.19,1
+14,104,Kayaking at lake,Outdoors,Adventurous,Curious,0.02,1
+42,101,Hiking in mountains,Outdoors,Adventurous,Happy,0.04,1
+32,109,Learn guitar,Skill,Skill-building,Energetic,0.22,0
+27,113,Wine tasting,Social,Relaxing,Anxious,0.2,0
+3,106,Yoga retreat,Wellness,Wellness,Anxious,0.13,1
+15,102,Visit art museum,Culture,Relaxing,Energetic,0.38,1
+40,102,Visit art museum,Culture,Relaxing,Curious,0.26,0
+20,114,Dance lessons,Skill,Skill-building,Curious,0.1,0
+19,110,Meditation session,Wellness,Wellness,Happy,0.11,1
+13,115,Camping trip,Outdoors,Adventurous,Curious,0.46,0
+18,102,Visit art museum,Culture,Relaxing,Relaxed,0.52,0
+17,112,Painting class,Culture,Skill-building,Energetic,0.03,0
+3,112,Painting class,Culture,Skill-building,Curious,0.08,0
+22,111,Rock climbing,Outdoors,Adventurous,Happy,0.47,1
+26,109,Learn guitar,Skill,Skill-building,Anxious,0.44,0
+34,115,Camping trip,Outdoors,Adventurous,Curious,0.38,0
+17,102,Visit art museum,Culture,Relaxing,Curious,0.95,0
+32,108,Volunteer at shelter,Social,Social,Happy,0.33,0
+8,111,Rock climbing,Outdoors,Adventurous,Curious,0.4,1
+39,103,Solo cooking class,Skill,Skill-building,Relaxed,0.51,0
+14,102,Visit art museum,Culture,Relaxing,Energetic,0.62,1
+33,102,Visit art museum,Culture,Relaxing,Anxious,0.79,1
+48,115,Camping trip,Outdoors,Adventurous,Energetic,0.4,0
+29,104,Kayaking at lake,Outdoors,Adventurous,Energetic,0.6,0
+50,113,Wine tasting,Social,Relaxing,Energetic,0.04,0
+45,106,Yoga retreat,Wellness,Wellness,Anxious,0.77,1
+31,105,Attend book club,Social,Social,Curious,0.67,1
+34,102,Visit art museum,Culture,Relaxing,Happy,0.89,0
+31,107,Photography workshop,Skill,Skill-building,Energetic,0.18,1
+14,101,Hiking in mountains,Outdoors,Adventurous,Calm,0.85,1
+10,115,Camping trip,Outdoors,Adventurous,Happy,0.64,0
+3,108,Volunteer at shelter,Social,Social,Focused,0.39,1
+38,107,Photography workshop,Skill,Skill-building,Energetic,0.72,1
+12,108,Volunteer at shelter,Social,Social,Energetic,0.61,1
+29,104,Kayaking at lake,Outdoors,Adventurous,Relaxed,0.4,0
+10,112,Painting class,Culture,Skill-building,Anxious,0.59,1
+36,108,Volunteer at shelter,Social,Social,Relaxed,0.17,0
+12,105,Attend book club,Social,Social,Focused,0.88,0
+49,109,Learn guitar,Skill,Skill-building,Happy,0.18,0
+36,105,Attend book club,Social,Social,Focused,0.79,0
+30,113,Wine tasting,Social,Relaxing,Curious,0.26,0
+16,114,Dance lessons,Skill,Skill-building,Curious,0.69,1
+48,111,Rock climbing,Outdoors,Adventurous,Curious,0.24,0
+30,108,Volunteer at shelter,Social,Social,Curious,0.94,1
+20,102,Visit art museum,Culture,Relaxing,Curious,0.61,0
+25,111,Rock climbing,Outdoors,Adventurous,Curious,0.25,1
+35,112,Painting class,Culture,Skill-building,Happy,0.48,0
+18,107,Photography workshop,Skill,Skill-building,Energetic,0.5,0
+8,102,Visit art museum,Culture,Relaxing,Focused,0.42,0
+44,111,Rock climbing,Outdoors,Adventurous,Happy,0.73,0
+2,115,Camping trip,Outdoors,Adventurous,Curious,0.02,1
+13,102,Visit art museum,Culture,Relaxing,Happy,0.53,0
+41,107,Photography workshop,Skill,Skill-building,Calm,0.14,1
+50,110,Meditation session,Wellness,Wellness,Calm,0.75,1
+13,115,Camping trip,Outdoors,Adventurous,Calm,0.48,1
+6,102,Visit art museum,Culture,Relaxing,Relaxed,0.34,1
+2,110,Meditation session,Wellness,Wellness,Curious,0.1,1
+20,104,Kayaking at lake,Outdoors,Adventurous,Anxious,0.32,0
+49,106,Yoga retreat,Wellness,Wellness,Calm,0.88,0
+20,107,Photography workshop,Skill,Skill-building,Happy,0.64,0
+40,103,Solo cooking class,Skill,Skill-building,Curious,0.41,0
+50,105,Attend book club,Social,Social,Focused,0.64,0
+7,102,Visit art museum,Culture,Relaxing,Calm,0.36,1
+31,109,Learn guitar,Skill,Skill-building,Focused,0.47,0
+40,115,Camping trip,Outdoors,Adventurous,Focused,0.05,1
+44,109,Learn guitar,Skill,Skill-building,Energetic,0.66,1
+30,113,Wine tasting,Social,Relaxing,Focused,0.61,0
+25,115,Camping trip,Outdoors,Adventurous,Relaxed,0.76,0
+21,107,Photography workshop,Skill,Skill-building,Calm,0.68,1
+35,105,Attend book club,Social,Social,Calm,0.66,1
+41,113,Wine tasting,Social,Relaxing,Focused,0.69,0
+11,108,Volunteer at shelter,Social,Social,Focused,0.02,0
+4,113,Wine tasting,Social,Relaxing,Anxious,0.86,0
+29,112,Painting class,Culture,Skill-building,Relaxed,0.28,0
+21,111,Rock climbing,Outdoors,Adventurous,Energetic,0.26,0
+4,107,Photography workshop,Skill,Skill-building,Curious,0.07,1
+8,105,Attend book club,Social,Social,Calm,0.83,0
+48,108,Volunteer at shelter,Social,Social,Focused,0.28,0
+32,106,Yoga retreat,Wellness,Wellness,Calm,0.34,1
+13,104,Kayaking at lake,Outdoors,Adventurous,Relaxed,0.04,0
+32,115,Camping trip,Outdoors,Adventurous,Calm,0.33,0
+43,104,Kayaking at lake,Outdoors,Adventurous,Anxious,0.98,1
+19,107,Photography workshop,Skill,Skill-building,Focused,0.4,1
+22,106,Yoga retreat,Wellness,Wellness,Curious,0.44,0
+47,113,Wine tasting,Social,Relaxing,Calm,0.64,1
+36,110,Meditation session,Wellness,Wellness,Curious,0.39,1
+25,106,Yoga retreat,Wellness,Wellness,Energetic,0.7,0
+20,104,Kayaking at lake,Outdoors,Adventurous,Curious,0.9,1
+7,104,Kayaking at lake,Outdoors,Adventurous,Anxious,0.87,0
+33,104,Kayaking at lake,Outdoors,Adventurous,Focused,0.8,0
+6,104,Kayaking at lake,Outdoors,Adventurous,Focused,0.64,1
+16,107,Photography workshop,Skill,Skill-building,Relaxed,0.44,1
+37,105,Attend book club,Social,Social,Relaxed,0.98,1
+14,114,Dance lessons,Skill,Skill-building,Curious,0.14,0
+31,113,Wine tasting,Social,Relaxing,Calm,0.11,1
+16,110,Meditation session,Wellness,Wellness,Energetic,0.24,1
+28,103,Solo cooking class,Skill,Skill-building,Relaxed,0.96,1
+11,102,Visit art museum,Culture,Relaxing,Focused,0.97,1
+47,113,Wine tasting,Social,Relaxing,Anxious,0.09,0
+38,103,Solo cooking class,Skill,Skill-building,Focused,0.12,1
+30,105,Attend book club,Social,Social,Happy,0.8,0
+33,111,Rock climbing,Outdoors,Adventurous,Anxious,0.78,0
+27,115,Camping trip,Outdoors,Adventurous,Anxious,0.13,1
+43,103,Solo cooking class,Skill,Skill-building,Energetic,0.02,0
+38,103,Solo cooking class,Skill,Skill-building,Happy,0.72,0
+12,108,Volunteer at shelter,Social,Social,Energetic,0.91,1
+45,108,Volunteer at shelter,Social,Social,Relaxed,0.58,0
+38,102,Visit art museum,Culture,Relaxing,Energetic,0.33,0
+17,106,Yoga retreat,Wellness,Wellness,Focused,0.54,1
+47,111,Rock climbing,Outdoors,Adventurous,Calm,0.5,0
+25,113,Wine tasting,Social,Relaxing,Anxious,0.95,0
+15,114,Dance lessons,Skill,Skill-building,Curious,0.8,0
+17,107,Photography workshop,Skill,Skill-building,Curious,0.8,0
+46,101,Hiking in mountains,Outdoors,Adventurous,Relaxed,0.25,1
+13,114,Dance lessons,Skill,Skill-building,Happy,0.53,1
+13,101,Hiking in mountains,Outdoors,Adventurous,Calm,0.94,1
+11,102,Visit art museum,Culture,Relaxing,Relaxed,0.57,0
+50,113,Wine tasting,Social,Relaxing,Calm,0.29,0
+36,102,Visit art museum,Culture,Relaxing,Calm,0.23,0
+38,106,Yoga retreat,Wellness,Wellness,Happy,0.9,0
+18,104,Kayaking at lake,Outdoors,Adventurous,Calm,0.92,1
+19,107,Photography workshop,Skill,Skill-building,Calm,0.93,0
+27,111,Rock climbing,Outdoors,Adventurous,Curious,0.56,0
+37,115,Camping trip,Outdoors,Adventurous,Happy,0.71,0
+44,104,Kayaking at lake,Outdoors,Adventurous,Happy,0.77,1
+46,106,Yoga retreat,Wellness,Wellness,Curious,0.26,1
+11,114,Dance lessons,Skill,Skill-building,Relaxed,0.49,0
+6,107,Photography workshop,Skill,Skill-building,Anxious,0.67,1
+30,101,Hiking in mountains,Outdoors,Adventurous,Happy,0.26,0
+20,104,Kayaking at lake,Outdoors,Adventurous,Calm,0.45,0
+38,107,Photography workshop,Skill,Skill-building,Relaxed,0.46,1
+21,107,Photography workshop,Skill,Skill-building,Focused,0.82,1
+15,108,Volunteer at shelter,Social,Social,Curious,0.36,1
+4,108,Volunteer at shelter,Social,Social,Curious,0.43,0
+4,106,Yoga retreat,Wellness,Wellness,Focused,0.54,1
+37,109,Learn guitar,Skill,Skill-building,Energetic,0.49,1
+33,114,Dance lessons,Skill,Skill-building,Curious,0.36,0
+33,103,Solo cooking class,Skill,Skill-building,Energetic,0.57,1
+21,114,Dance lessons,Skill,Skill-building,Focused,0.71,0
+29,104,Kayaking at lake,Outdoors,Adventurous,Energetic,0.8,0
+32,103,Solo cooking class,Skill,Skill-building,Curious,1.0,0
+10,104,Kayaking at lake,Outdoors,Adventurous,Relaxed,0.85,1
+26,110,Meditation session,Wellness,Wellness,Relaxed,0.14,1
+3,110,Meditation session,Wellness,Wellness,Energetic,0.63,1
+24,115,Camping trip,Outdoors,Adventurous,Energetic,0.21,0
+42,106,Yoga retreat,Wellness,Wellness,Focused,0.15,1
+5,111,Rock climbing,Outdoors,Adventurous,Anxious,0.35,0
+1,105,Attend book club,Social,Social,Focused,0.93,0
+7,106,Yoga retreat,Wellness,Wellness,Anxious,0.72,0
+48,109,Learn guitar,Skill,Skill-building,Relaxed,0.12,1
+16,102,Visit art museum,Culture,Relaxing,Happy,0.04,0
+30,114,Dance lessons,Skill,Skill-building,Relaxed,0.31,0
+20,108,Volunteer at shelter,Social,Social,Happy,0.13,0
+17,104,Kayaking at lake,Outdoors,Adventurous,Energetic,0.95,0
+50,109,Learn guitar,Skill,Skill-building,Anxious,0.07,0
+1,113,Wine tasting,Social,Relaxing,Curious,0.05,1
+42,111,Rock climbing,Outdoors,Adventurous,Energetic,0.6,0
+27,113,Wine tasting,Social,Relaxing,Calm,0.1,1
+39,105,Attend book club,Social,Social,Focused,0.15,0
+1,109,Learn guitar,Skill,Skill-building,Relaxed,0.66,0
+32,105,Attend book club,Social,Social,Relaxed,0.44,0
+2,115,Camping trip,Outdoors,Adventurous,Relaxed,0.38,0
+1,113,Wine tasting,Social,Relaxing,Anxious,0.26,0
+12,104,Kayaking at lake,Outdoors,Adventurous,Happy,0.35,1
+50,115,Camping trip,Outdoors,Adventurous,Energetic,0.23,0
+9,111,Rock climbing,Outdoors,Adventurous,Energetic,0.81,0
+1,104,Kayaking at lake,Outdoors,Adventurous,Relaxed,0.76,1
+42,107,Photography workshop,Skill,Skill-building,Curious,0.96,0
+44,111,Rock climbing,Outdoors,Adventurous,Calm,0.91,0
+8,107,Photography workshop,Skill,Skill-building,Curious,0.77,0
+3,114,Dance lessons,Skill,Skill-building,Relaxed,0.53,0
+29,113,Wine tasting,Social,Relaxing,Focused,0.27,1
+42,105,Attend book club,Social,Social,Curious,0.01,0
+5,115,Camping trip,Outdoors,Adventurous,Energetic,0.39,0
+21,103,Solo cooking class,Skill,Skill-building,Calm,0.33,0
+32,108,Volunteer at shelter,Social,Social,Happy,0.85,1
+8,108,Volunteer at shelter,Social,Social,Anxious,0.73,1
+25,102,Visit art museum,Culture,Relaxing,Anxious,0.83,0
+1,103,Solo cooking class,Skill,Skill-building,Calm,0.53,1
+38,108,Volunteer at shelter,Social,Social,Happy,0.53,0
+9,111,Rock climbing,Outdoors,Adventurous,Anxious,0.5,0
+12,103,Solo cooking class,Skill,Skill-building,Focused,0.65,0
+15,115,Camping trip,Outdoors,Adventurous,Happy,0.67,1
+20,112,Painting class,Culture,Skill-building,Curious,0.17,0
+21,106,Yoga retreat,Wellness,Wellness,Relaxed,0.7,0
+20,111,Rock climbing,Outdoors,Adventurous,Relaxed,0.59,0
+48,109,Learn guitar,Skill,Skill-building,Anxious,0.59,0
+13,104,Kayaking at lake,Outdoors,Adventurous,Anxious,0.08,0
+14,102,Visit art museum,Culture,Relaxing,Curious,0.4,0
+8,104,Kayaking at lake,Outdoors,Adventurous,Relaxed,0.0,1
+26,104,Kayaking at lake,Outdoors,Adventurous,Calm,0.42,1
+22,110,Meditation session,Wellness,Wellness,Anxious,0.59,1
+28,104,Kayaking at lake,Outdoors,Adventurous,Calm,0.93,0
+40,109,Learn guitar,Skill,Skill-building,Relaxed,0.01,0
+25,101,Hiking in mountains,Outdoors,Adventurous,Focused,0.3,0
+50,110,Meditation session,Wellness,Wellness,Happy,0.32,0
+10,113,Wine tasting,Social,Relaxing,Curious,0.73,1
+25,105,Attend book club,Social,Social,Energetic,0.92,0
+19,107,Photography workshop,Skill,Skill-building,Energetic,0.46,1
+22,112,Painting class,Culture,Skill-building,Curious,0.76,0
+29,104,Kayaking at lake,Outdoors,Adventurous,Happy,0.37,0
+24,103,Solo cooking class,Skill,Skill-building,Happy,0.54,0
+48,113,Wine tasting,Social,Relaxing,Calm,0.48,0
+38,101,Hiking in mountains,Outdoors,Adventurous,Calm,0.49,1
+39,111,Rock climbing,Outdoors,Adventurous,Focused,0.1,0
+43,105,Attend book club,Social,Social,Anxious,0.73,1
+8,110,Meditation session,Wellness,Wellness,Focused,0.93,1
+13,101,Hiking in mountains,Outdoors,Adventurous,Happy,0.55,1
+23,103,Solo cooking class,Skill,Skill-building,Calm,0.56,1
+9,101,Hiking in mountains,Outdoors,Adventurous,Curious,0.56,0
+30,112,Painting class,Culture,Skill-building,Curious,0.43,1
+21,101,Hiking in mountains,Outdoors,Adventurous,Anxious,0.09,0
+15,115,Camping trip,Outdoors,Adventurous,Focused,0.81,0
+7,102,Visit art museum,Culture,Relaxing,Anxious,0.98,1
+11,113,Wine tasting,Social,Relaxing,Focused,0.05,0
+39,105,Attend book club,Social,Social,Anxious,0.83,1
+10,107,Photography workshop,Skill,Skill-building,Energetic,0.26,1
+38,111,Rock climbing,Outdoors,Adventurous,Anxious,0.21,0
+16,102,Visit art museum,Culture,Relaxing,Happy,0.76,0
+37,111,Rock climbing,Outdoors,Adventurous,Calm,0.64,0
+4,115,Camping trip,Outdoors,Adventurous,Relaxed,0.89,1
+18,113,Wine tasting,Social,Relaxing,Calm,0.66,1
+30,107,Photography workshop,Skill,Skill-building,Relaxed,0.18,0
+17,106,Yoga retreat,Wellness,Wellness,Happy,0.69,1
+18,114,Dance lessons,Skill,Skill-building,Anxious,0.5,1
+1,115,Camping trip,Outdoors,Adventurous,Relaxed,0.93,0
+13,113,Wine tasting,Social,Relaxing,Calm,0.88,0
+2,111,Rock climbing,Outdoors,Adventurous,Curious,0.48,0
+48,112,Painting class,Culture,Skill-building,Relaxed,0.35,1
+38,109,Learn guitar,Skill,Skill-building,Anxious,0.55,1
+42,111,Rock climbing,Outdoors,Adventurous,Curious,0.94,0
+40,106,Yoga retreat,Wellness,Wellness,Energetic,0.91,0
+18,113,Wine tasting,Social,Relaxing,Focused,0.27,1
+35,106,Yoga retreat,Wellness,Wellness,Energetic,0.36,0
+40,115,Camping trip,Outdoors,Adventurous,Energetic,0.95,0
+4,105,Attend book club,Social,Social,Energetic,0.56,1
+5,103,Solo cooking class,Skill,Skill-building,Anxious,0.27,0
+30,107,Photography workshop,Skill,Skill-building,Curious,0.07,0
+5,113,Wine tasting,Social,Relaxing,Focused,0.56,0
+46,104,Kayaking at lake,Outdoors,Adventurous,Calm,0.57,0
+48,107,Photography workshop,Skill,Skill-building,Happy,0.26,1
+43,110,Meditation session,Wellness,Wellness,Energetic,0.04,1
+24,102,Visit art museum,Culture,Relaxing,Happy,0.19,1
+4,112,Painting class,Culture,Skill-building,Calm,0.76,0
+38,104,Kayaking at lake,Outdoors,Adventurous,Happy,0.21,0
+37,112,Painting class,Culture,Skill-building,Curious,0.86,1
+20,112,Painting class,Culture,Skill-building,Calm,0.17,0
+17,112,Painting class,Culture,Skill-building,Happy,0.34,0
+17,107,Photography workshop,Skill,Skill-building,Curious,0.25,0
+15,102,Visit art museum,Culture,Relaxing,Focused,0.5,0
+1,114,Dance lessons,Skill,Skill-building,Happy,0.74,1
+21,109,Learn guitar,Skill,Skill-building,Calm,0.77,1
+41,101,Hiking in mountains,Outdoors,Adventurous,Relaxed,0.04,0
+18,112,Painting class,Culture,Skill-building,Focused,0.53,1
+48,111,Rock climbing,Outdoors,Adventurous,Energetic,0.77,0
+35,114,Dance lessons,Skill,Skill-building,Curious,0.44,0
+17,108,Volunteer at shelter,Social,Social,Curious,0.34,0
+40,103,Solo cooking class,Skill,Skill-building,Happy,0.28,1
+9,101,Hiking in mountains,Outdoors,Adventurous,Calm,0.09,0
+12,103,Solo cooking class,Skill,Skill-building,Curious,0.76,1
+17,110,Meditation session,Wellness,Wellness,Anxious,0.82,1
+8,107,Photography workshop,Skill,Skill-building,Happy,0.61,0
+14,103,Solo cooking class,Skill,Skill-building,Happy,0.54,1
+7,109,Learn guitar,Skill,Skill-building,Happy,0.0,0
+18,107,Photography workshop,Skill,Skill-building,Calm,0.4,1
+13,104,Kayaking at lake,Outdoors,Adventurous,Focused,0.23,0
+1,112,Painting class,Culture,Skill-building,Energetic,0.34,1
+41,102,Visit art museum,Culture,Relaxing,Calm,0.12,0
+37,105,Attend book club,Social,Social,Anxious,0.99,1
+40,105,Attend book club,Social,Social,Calm,0.66,0
+35,104,Kayaking at lake,Outdoors,Adventurous,Curious,0.71,1
+30,104,Kayaking at lake,Outdoors,Adventurous,Energetic,0.6,0
+33,110,Meditation session,Wellness,Wellness,Relaxed,0.16,1
+9,105,Attend book club,Social,Social,Calm,0.17,0
+7,106,Yoga retreat,Wellness,Wellness,Happy,0.02,0
+29,114,Dance lessons,Skill,Skill-building,Curious,0.36,1
+39,103,Solo cooking class,Skill,Skill-building,Curious,0.04,0
+27,106,Yoga retreat,Wellness,Wellness,Focused,0.69,0
+3,106,Yoga retreat,Wellness,Wellness,Happy,0.97,1
+13,107,Photography workshop,Skill,Skill-building,Happy,0.74,0
+12,101,Hiking in mountains,Outdoors,Adventurous,Focused,0.83,0
+40,111,Rock climbing,Outdoors,Adventurous,Relaxed,0.31,0
+45,103,Solo cooking class,Skill,Skill-building,Focused,0.85,0
+41,104,Kayaking at lake,Outdoors,Adventurous,Happy,0.57,1
+25,104,Kayaking at lake,Outdoors,Adventurous,Calm,0.35,1
+22,107,Photography workshop,Skill,Skill-building,Energetic,0.99,0
+19,115,Camping trip,Outdoors,Adventurous,Energetic,0.87,0
+28,112,Painting class,Culture,Skill-building,Anxious,0.11,0
+31,112,Painting class,Culture,Skill-building,Anxious,0.01,1
+31,101,Hiking in mountains,Outdoors,Adventurous,Curious,0.37,0
+3,101,Hiking in mountains,Outdoors,Adventurous,Focused,0.63,0
+9,111,Rock climbing,Outdoors,Adventurous,Curious,0.99,0
+43,115,Camping trip,Outdoors,Adventurous,Happy,0.89,1
+17,107,Photography workshop,Skill,Skill-building,Happy,0.63,1
+36,105,Attend book club,Social,Social,Energetic,0.09,1
+20,114,Dance lessons,Skill,Skill-building,Focused,0.84,1
+37,112,Painting class,Culture,Skill-building,Focused,0.5,1
+3,107,Photography workshop,Skill,Skill-building,Relaxed,0.54,0
+33,114,Dance lessons,Skill,Skill-building,Happy,0.36,0
+20,106,Yoga retreat,Wellness,Wellness,Focused,0.52,0
+42,103,Solo cooking class,Skill,Skill-building,Relaxed,0.56,0
+16,109,Learn guitar,Skill,Skill-building,Focused,0.21,0
+14,104,Kayaking at lake,Outdoors,Adventurous,Happy,0.18,1
+46,114,Dance lessons,Skill,Skill-building,Curious,0.88,1
+36,104,Kayaking at lake,Outdoors,Adventurous,Focused,0.54,1
+37,101,Hiking in mountains,Outdoors,Adventurous,Calm,0.35,1
+29,107,Photography workshop,Skill,Skill-building,Curious,0.07,0
+15,102,Visit art museum,Culture,Relaxing,Happy,0.04,0
+8,108,Volunteer at shelter,Social,Social,Curious,0.86,1
+1,108,Volunteer at shelter,Social,Social,Energetic,0.26,0
+28,106,Yoga retreat,Wellness,Wellness,Curious,0.87,0
+8,104,Kayaking at lake,Outdoors,Adventurous,Curious,0.84,0
+6,114,Dance lessons,Skill,Skill-building,Curious,0.51,0
+43,111,Rock climbing,Outdoors,Adventurous,Calm,0.24,1
+42,103,Solo cooking class,Skill,Skill-building,Anxious,0.21,1
+29,102,Visit art museum,Culture,Relaxing,Relaxed,0.3,1
+25,101,Hiking in mountains,Outdoors,Adventurous,Happy,0.3,1
+39,102,Visit art museum,Culture,Relaxing,Relaxed,0.32,0
+14,112,Painting class,Culture,Skill-building,Happy,0.67,1
+49,113,Wine tasting,Social,Relaxing,Relaxed,0.69,0
+10,106,Yoga retreat,Wellness,Wellness,Anxious,0.78,1
+18,105,Attend book club,Social,Social,Focused,0.53,1
+41,106,Yoga retreat,Wellness,Wellness,Focused,0.74,0
+33,106,Yoga retreat,Wellness,Wellness,Calm,0.63,0
+24,113,Wine tasting,Social,Relaxing,Relaxed,0.58,0
+31,101,Hiking in mountains,Outdoors,Adventurous,Anxious,0.64,0
+43,109,Learn guitar,Skill,Skill-building,Focused,0.79,0
+4,115,Camping trip,Outdoors,Adventurous,Curious,0.17,1
+38,109,Learn guitar,Skill,Skill-building,Energetic,0.67,1
+20,115,Camping trip,Outdoors,Adventurous,Energetic,0.35,1
+25,107,Photography workshop,Skill,Skill-building,Curious,0.66,1
+42,115,Camping trip,Outdoors,Adventurous,Anxious,0.91,1
+23,107,Photography workshop,Skill,Skill-building,Focused,0.82,1
+46,112,Painting class,Culture,Skill-building,Relaxed,1.0,0
+44,102,Visit art museum,Culture,Relaxing,Relaxed,0.91,0
+49,112,Painting class,Culture,Skill-building,Happy,0.11,1
+39,110,Meditation session,Wellness,Wellness,Energetic,0.4,0
+14,105,Attend book club,Social,Social,Curious,0.53,0
+7,114,Dance lessons,Skill,Skill-building,Curious,0.78,1
+47,115,Camping trip,Outdoors,Adventurous,Anxious,0.33,0
+9,111,Rock climbing,Outdoors,Adventurous,Curious,0.8,1
+19,106,Yoga retreat,Wellness,Wellness,Energetic,0.33,1
+4,105,Attend book club,Social,Social,Calm,0.9,1
+16,113,Wine tasting,Social,Relaxing,Anxious,0.32,0
+6,107,Photography workshop,Skill,Skill-building,Happy,0.89,0
+33,112,Painting class,Culture,Skill-building,Calm,0.61,0
+37,106,Yoga retreat,Wellness,Wellness,Calm,0.98,1
+47,112,Painting class,Culture,Skill-building,Relaxed,0.05,0
+23,113,Wine tasting,Social,Relaxing,Energetic,0.89,1
+17,104,Kayaking at lake,Outdoors,Adventurous,Focused,0.15,0
+22,114,Dance lessons,Skill,Skill-building,Relaxed,0.16,0
+17,110,Meditation session,Wellness,Wellness,Calm,0.57,0
+36,114,Dance lessons,Skill,Skill-building,Happy,0.48,0
+24,109,Learn guitar,Skill,Skill-building,Curious,0.16,0
+33,103,Solo cooking class,Skill,Skill-building,Relaxed,0.82,1
+45,113,Wine tasting,Social,Relaxing,Happy,0.59,0
+29,107,Photography workshop,Skill,Skill-building,Happy,0.16,0
+33,115,Camping trip,Outdoors,Adventurous,Happy,0.13,1
+35,107,Photography workshop,Skill,Skill-building,Calm,0.41,0
+34,108,Volunteer at shelter,Social,Social,Curious,0.51,0
+23,106,Yoga retreat,Wellness,Wellness,Happy,0.77,0
+3,105,Attend book club,Social,Social,Anxious,0.24,0
+1,109,Learn guitar,Skill,Skill-building,Anxious,0.35,1
+12,109,Learn guitar,Skill,Skill-building,Energetic,0.82,0
+20,106,Yoga retreat,Wellness,Wellness,Curious,0.63,1
+21,107,Photography workshop,Skill,Skill-building,Curious,0.34,1
+28,106,Yoga retreat,Wellness,Wellness,Anxious,0.55,1
+45,101,Hiking in mountains,Outdoors,Adventurous,Relaxed,0.5,0
+27,102,Visit art museum,Culture,Relaxing,Curious,0.3,0
+16,112,Painting class,Culture,Skill-building,Calm,0.73,0

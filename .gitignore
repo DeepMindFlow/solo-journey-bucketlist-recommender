@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+logs/
+*.log
+
+# macOS system files
+.DS_Store
+
+# Python coverage reports
+.coverage
+htmlcov/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Streamlit cache
+.streamlit/
+
+# Misc
+*.sqlite3
