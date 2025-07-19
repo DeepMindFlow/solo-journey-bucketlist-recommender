@@ -1,6 +1,7 @@
 altair==5.5.0
 attrs==25.3.0
 blinker==1.9.0
+cachetools==5.3.0          # compatible with streamlit <6
 certifi==2025.7.14
 charset-normalizer==3.4.2
 click==8.2.1
@@ -15,10 +16,11 @@ jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 kiwisolver==1.4.8
 MarkupSafe==3.0.2
-matplotlib==3.10.3
-numpy==2.2.6
+matplotlib==3.7.1          # compatible with numpy 1.26.x
+narwhals==1.47.0
+numpy==1.26.4              # downgraded to latest 1.x
 packaging==25.0
-pandas==2.3.1
+pandas==2.0.3              # compatible with numpy 1.26.x
 pillow==11.3.0
 plotly==6.2.0
 protobuf==6.31.1
@@ -27,7 +29,7 @@ pyarrow==20.0.0
 pydeck==0.9.1
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
-python-dotenv==1.0.1
+python-dotenv==1.1.1
 pytz==2025.2
 referencing==0.36.2
 requests==2.32.4
@@ -41,4 +43,3 @@ tornado==6.5.1
 typing_extensions==4.14.1
 tzdata==2025.2
 urllib3==2.5.0
-
