@@ -33,7 +33,7 @@ dist/
 *.egg-info/
 
 # Streamlit cache
-.streamlit/
+#.streamlit/
 
 # Misc
 *.sqlite3
