@@ -2,13 +2,19 @@
 
 import psycopg2
 import numpy as np
+from dotenv import load_dotenv
+import os
+
+#Load environment variables from .env file
+load_dotenv()
 
 def load_data_from_postgresql():
-    conn = psycopg2.connect(dbname="dreamseeker",
-                            user="glizkmoe.fit",
-                            password="<PASSWORD>",
-                            host="localhost",
-                            port="5432"
+    conn = psycopg2.connect(
+        dbname=os.getenv("POSTGRES_DB"),
+        user=os.getenv("POSTGRES_USER"),
+        password=os.getenv("POSTGRES_PASSWORD"),
+        host=os.getenv("POSTGRES_HOST"),
+        port=int(os.getenv("POSTGRES_PORT"))  # Convert port to int
     )
     cur = conn.cursor()
 
