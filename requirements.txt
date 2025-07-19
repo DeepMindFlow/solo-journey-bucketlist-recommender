@@ -1,7 +1,7 @@
 altair==5.5.0
 attrs==25.3.0
 blinker==1.9.0
-cachetools==5.3.0          # compatible with streamlit <6
+cachetools==5.4.0
 certifi==2025.7.14
 charset-normalizer==3.4.2
 click==8.2.1
@@ -16,11 +16,11 @@ jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 kiwisolver==1.4.8
 MarkupSafe==3.0.2
-matplotlib==3.7.1          # compatible with numpy 1.26.x
+matplotlib==3.7.1
 narwhals==1.47.0
-numpy==1.26.4              # downgraded to latest 1.x
-packaging==25.0
-pandas==2.0.3              # compatible with numpy 1.26.x
+numpy==1.26.4
+packaging==23.1
+pandas==2.0.3
 pillow==11.3.0
 plotly==6.2.0
 protobuf==6.31.1
@@ -37,7 +37,7 @@ rpds-py==0.26.0
 six==1.17.0
 smmap==5.0.2
 streamlit==1.27.2
-tenacity==9.1.2
+tenacity==8.2.2
 toml==0.10.2
 tornado==6.5.1
 typing_extensions==4.14.1
