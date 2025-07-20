@@ -9,14 +9,21 @@ import os
 load_dotenv()
 
 def load_data_from_postgresql():
+    environment = os.getenv("ENV", "local")
+
+    ssl_mode = "require" if environment == "production" else "disable"
+
+
     try:
+        ssl_mode = os.getenv("POSTGRES_SSL_MODE", "disable") # default to disable
+
         conn = psycopg2.connect(
             dbname=os.getenv("POSTGRES_DB"),
             user=os.getenv("POSTGRES_USER"),
             password=os.getenv("POSTGRES_PASSWORD"),
             host=os.getenv("POSTGRES_HOST"),
             port=int(os.getenv("POSTGRES_PORT")),  # Convert port to int
-            sslmode = 'require'
+            sslmode = ssl_mode
     )
 
 
@@ -35,7 +42,7 @@ def load_data_from_postgresql():
 
         # Split into features(X) and label/outcome variable/dependent variable (y)
         # label is the last column
-        X = data[:, :-1]#all columns except the last column
+        X = data[:, :-1] # All columns except the last column
         y = data[:, -1] # Last column (label)
 
         X = np.array(X) #convert to Numpy array
