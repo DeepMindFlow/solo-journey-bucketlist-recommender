@@ -100,13 +100,13 @@ DreamSeeker/
 
 ---
 
-## 🔍 ML Algorithms Used (From Scratch with NumPy)
+## 🔍 ML Algorithms (From Scratch with NumPy)
 
-| Algorithm           | Type           | Reason for Selection                          |
-| ------------------- | -------------- | --------------------------------------------- |
-| Logistic Regression | Classification | Lightweight, interpretable baseline           |
-| Decision Tree       | Classification | Handles non-linear logic and mixed data types |
-| Random Forest       | Ensemble       | Robust performance, prevents overfitting      |
+| Algorithm           | Type           | Reason for Selection                          | Versions
+| ------------------- | -------------- | --------------------------------------------- |-------------------------------------------- |
+| Logistic Regression | Classification | Lightweight, interpretable baseline           | SUccessfully Implemented in Version 1 (v.1) |
+| Decision Tree       | Classification | Handles non-linear logic and mixed data types | For version 2                               |
+| Random Forest       | Ensemble       | Robust performance, prevents overfitting      | For Version 2                               |
 
 These models will be implemented manually and compared using classification metrics (accuracy, precision, recall, F1). The best-performing model will be selected for final deployment.
 
@@ -124,21 +124,23 @@ These models will be implemented manually and compared using classification metr
   - psycopg2 (2.9.10) - PostgreSQL adapter
   - requests (2.32.4) - HTTP client
 
+- **MLOps & Monitoring**:
+  - Render - Deployment for v.1 recommender engine
+
+- **Machine Learning Algorithm**:
+  - Logistic Regression - Binary Classifier (0- No, 1- Yes)
 
 - **Version Control & Collaboration**:
   - Git
   - GitHub
 
 ### Version 2 (Current)
-- **Infrastructure & Containerization**:
-  - Docker
-  - Docker Compose
+- **Machine Learning Algorithm**:
+  - Decision Trees - Classification-based (Advanced algorithm)
+  - Random Forest or Bagging (Aggregation) - Ensemble Method
 
 - **Data Pipeline & Orchestration**:
-  - Prefect - Workflow automation
-  - Redis - Caching layer
-  - PostgreSQL - Primary database
-  - EvidentlyAI - ML monitoring
+  - PostgreSQL - Primary database (Supabase)
 
 - **API Integration**:
   - Google Places API
@@ -146,10 +148,23 @@ These models will be implemented manually and compared using classification metr
   - Eventbrite API
   - FastAPI - Backend service
 
+## 🛠️ Next Steps
+
+### Version 3 (Future)
 - **MLOps & Monitoring**:
   - MLflow - Model tracking & versioning
   - GitHub Actions - CI/CD pipeline
+  - Render - Deployment & Redeployment of updated model
 
+- **Infrastructure & Containerization**:
+  - Docker
+  - Docker Compose
+ 
+  
+- **Data Pipeline & Orchestration**:
+  - Prefect - Workflow automation
+  - MLflow - Experimental tracking, logging and comparing parameters
+  - Redis - Caching layer
+  - PostgreSQL - Primary database
+  - EvidentlyAI - ML monitoring
 ---
-
-## 🛠️ Next Steps
